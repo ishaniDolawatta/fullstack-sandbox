@@ -124,6 +124,7 @@ export const ToDoListForm = ({ toDoList }) => {
 								<KeyboardDateTimePicker
 									style={{ margin: "8px" }}
 									value={todoItem.completeAt}
+									minDateMessage=""
 									onChange={(date) =>
 										onChangeTodoItemDate(
 											date.toDate(),
