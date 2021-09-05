@@ -12,6 +12,6 @@ NodeJS - https://nodejs.org/en/download/
  - Run 'npm ci'
  - Run 'npm start'
 
-### database
+### Database
 
  - I created collection in a newly created Sellpy cluster on MongoDb:Atlas free tier account. Attached a screen shot of the collection in the backend/public folder for your reference. 
