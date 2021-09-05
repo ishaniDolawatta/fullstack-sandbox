@@ -7,5 +7,6 @@ export default {
 	notCompleted: "Not completed",
 	dueDate: "Due date time",
 	remaining: "Remaining",
-	overdue: "Overdue"
+	overdue: "Overdue",
+	whatTodo: "What to do?"
 };

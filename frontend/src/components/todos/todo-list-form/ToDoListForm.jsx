@@ -111,7 +111,7 @@ export const ToDoListForm = ({ toDoList }) => {
 									}}
 								/>
 								<TextField
-									label="What to do?"
+									label={LangConstants.whatToDo}
 									value={todoItem.name}
 									onChange={(event) => {
 										onChangeTodoItemName(
